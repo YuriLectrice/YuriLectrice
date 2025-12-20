@@ -1,4 +1,4 @@
-## Hi there 👋
+# Welcome 👋
 
 <!--
 **YuriLectrice/YuriLectrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This github profile will currently be used for writing:
+- TryHackMe Rooms and CTFs Write-Ups
+- Linux guides
+
+## About me
+I am a student interested in learning Cybersecurity and mastering Linux.
+
+I mostly study through TryHackMe but I also use other resources.
+
+I currently use Arch Linux as my main distro.
+
+## Links
+THM: https://tryhackme.com/p/YuriLectrice
+
+Personal site: https://yurilectrice.carrd.co/
+
+Email: oneonezerosix@proton.me
