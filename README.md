@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This github profile will currently be used for writing:
+This Github profile will at the moment be used for writing:
 - TryHackMe Rooms and CTFs Write-Ups
 - Linux guides
 
@@ -24,7 +24,7 @@ This github profile will currently be used for writing:
 
 - Mostly studying through TryHackMe but also using other resources.
 
-- Currently using Arch Linux as my main distro.
+- Using Arch Linux as my main distro.
 
 ## Links
 THM: https://tryhackme.com/p/YuriLectrice
