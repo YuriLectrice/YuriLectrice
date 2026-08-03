@@ -20,11 +20,11 @@ This Github profile will at the moment be used for writing:
 - Linux guides
 
 ## About me
-- Currently an STI2D student interested in learning Cybersecurity and mastering Linux.
+- Soon to be a BTS CIEL student interested in learning Cybersecurity and mastering Linux.
 
 - Mostly studying through TryHackMe but also using other resources.
 
-- Using Arch Linux as my main distro.
+- Using Arch Linux as my main distro alongside modified Windows.
 
 ## Links
 THM: https://tryhackme.com/p/YuriLectrice
