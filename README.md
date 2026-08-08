@@ -29,6 +29,6 @@ This Github profile will at the moment be used for writing:
 ## Links
 THM: https://tryhackme.com/p/YuriLectrice
 
-Personal site: https://yurilectrice.carrd.co/
+Personal site: https://yurilectrice.neocities.org/
 
 Email: oneonezerosix@proton.me
