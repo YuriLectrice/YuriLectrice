@@ -20,9 +20,9 @@ This Github profile will at the moment be used for writing:
 - Linux guides
 
 ## About me
-- Soon to be a BTS CIEL student interested in learning Cybersecurity and mastering Linux.
+- A BTS CIEL student interested in learning Cybersecurity and mastering Linux.
 
-- Mostly studying through TryHackMe but also using other resources.
+- Mostly studying through TryHackMe on my freetime but also using other resources.
 
 - Using Arch Linux as my main distro alongside modified Windows.
 
