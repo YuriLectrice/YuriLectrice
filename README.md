@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This Github profile will at the moment be used for writing:
+This Github profile will mostly be used for:
 - TryHackMe Rooms and CTFs Write-Ups
 - Linux guides
+- Project releases
 
 ## About me
 - A BTS CIEL student interested in learning Cybersecurity and mastering Linux.
@@ -31,4 +32,4 @@ THM: https://tryhackme.com/p/YuriLectrice
 
 Personal site: https://yurilectrice.neocities.org/
 
-Email: oneonezerosix@proton.me
+Email: yurilectrice@tutamail.com
